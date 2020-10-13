@@ -12,9 +12,6 @@ Hi, I'm Aleksandar Ilić, a Software Developer 🚀 from Serbia, currently, I'm 
  
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on improving my techskill;
-- 🌱 I’m currently learning AWS; 
-- 👯 I’m looking to collaborate on DevPost;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me:https://www.linkedin.com/in/aleksandar-ili%C4%87-a9b30b87/;
 - 📝[Resume](https://resume.creddle.io/resume/5yd021417fr)
