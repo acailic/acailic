@@ -8,7 +8,7 @@
 <br />
 <br />
 
-Hi, I'm Aleksandar Ilić, a Software Developer 🚀 from Serbia, currently, I'm a Software Engineer at 🙍🏽‍♂️ [@levi9](https://levi9.com). I'm a software development craftsman.
+Hi, I'm Aleksandar Ilić, a Software Developer 🚀 from Serbia, currently. I'm a software development craftsman.
  
 **Talking about Personal Stuffs:**
 
