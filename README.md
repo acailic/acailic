@@ -1,25 +1,25 @@
-# Aleksandar Ilić
+# Aleksandar Ilić 👨‍💻
 
-Software developer from Novi Sad, Serbia. Building serious backend systems by day, experimenting with AI agents by night.
-
----
-
-### Currently
-
-- Deep in AI multi-agent systems — LangGraph, CLI+LLM, agentic workflows
-- Building tools that solve real problems, then sharing them publicly
-- Expanding from Java/Spring Boot roots into Python, Rust, and TypeScript
-- Learning in public at [ilicaleksandar.github.io](https://ilicaleksandar.github.io)
+🇷🇸 Software developer from Novi Sad, Serbia. Building serious backend systems by day, experimenting with AI agents by night.
 
 ---
 
-### Tech
+### 🔥 Currently
+
+- 🤖 Deep in AI multi-agent systems — LangGraph, CLI+LLM, agentic workflows
+- 🛠️ Building tools that solve real problems, then sharing them publicly
+- 📈 Expanding from Java/Spring Boot roots into Python, Rust, and TypeScript
+- 📝 Learning in public at [ilicaleksandar.github.io](https://ilicaleksandar.github.io)
+
+---
+
+### 🧰 Tech
 
 Java · Spring Boot · TypeScript · Python · Rust · Scala · Docker · Terraform · LangGraph · PostgreSQL · Elasticsearch
 
 ---
 
-### Notable Projects
+### 🚀 Notable Projects
 
 - 🗺️ **[vizuelni-admin](https://github.com/acailic/vizuelni-admin)** — tool for visualizing Serbian Open Government Data 🇷🇸
 - 🧠 **[amplifier-adding-codex](https://github.com/acailic/amplifier-adding-codex)** — metacognitive AI development system that turns expertise into reusable automation tools without writing code
@@ -32,9 +32,9 @@ Java · Spring Boot · TypeScript · Python · Rust · Scala · Docker · Terraf
 
 ---
 
-### Connect
+### 🤝 Connect
 
-[LinkedIn](https://www.linkedin.com/in/aleksandar-ili%C4%87-a9b30b87/) · [Blog](https://ilicaleksandar.github.io) · [Resume](https://drive.google.com/file/d/1gSnqmjiujRkh8rLH2U7loAK2VbOcXiLS/view?usp=sharing)
+💼 [LinkedIn](https://www.linkedin.com/in/aleksandar-ili%C4%87-a9b30b87/) · ✍️ [Blog](https://ilicaleksandar.github.io) · 📄 [Resume](https://drive.google.com/file/d/1gSnqmjiujRkh8rLH2U7loAK2VbOcXiLS/view?usp=sharing)
 
 ---
 
