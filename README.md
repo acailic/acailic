@@ -38,5 +38,9 @@ Java · Spring Boot · TypeScript · Python · Rust · Scala · Docker · Terraf
 
 ---
 
+### 📊 GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/acailic)
+
 ![Aleksandar's github stats](https://github-readme-stats.vercel.app/api?username=acailic&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acailic&layout=compact&hide_border=true&langs_count=8)
