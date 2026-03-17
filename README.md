@@ -6,9 +6,9 @@
 
 ### 🔥 Currently
 
-- 🤖 Deep in AI multi-agent systems — LangGraph, CLI+LLM, agentic workflows
-- 🛠️ Building tools that solve real problems, then sharing them publicly
 - 📈 Expanding from Java/Spring Boot roots into Python, Rust, and TypeScript
+- 🛠️ Building tools that solve real problems, then sharing them publicly
+- 🤖 Deep in AI multi-agent systems — LangGraph, CLI+LLM, agentic workflows
 - 📝 Learning in public at [ilicaleksandar.github.io](https://ilicaleksandar.github.io)
 
 ---
