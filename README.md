@@ -22,6 +22,7 @@ Java · Spring Boot · TypeScript · Python · Rust · Scala · Docker · Terraf
 ### Notable Projects
 
 - 🗺️ **[vizuelni-admin](https://github.com/acailic/vizuelni-admin)** — tool for visualizing Serbian Open Government Data 🇷🇸
+- 🧠 **[amplifier-adding-codex](https://github.com/acailic/amplifier-adding-codex)** — metacognitive AI development system that turns expertise into reusable automation tools without writing code
 - 🤖 **[BabyCommandAGI](https://github.com/acailic/BabyCommandAGI)** — what happens when you put an LLM and a CLI in a room and let them talk to each other
 - 🏗️ **[archi-comm](https://github.com/acailic/archi-comm)** — desktop app for practicing system design interviews
 - 🎯 **[interview-prep-coach](https://github.com/acailic/interview-prep-coach)** — AI-powered interview coach with interactive practice sessions
