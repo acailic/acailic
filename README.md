@@ -1,33 +1,40 @@
- 
-### Hey 👋🏽, I'm [Aleksandar!](https://ilicaleksandar.github.io/) 
+# Aleksandar Ilić
 
- 
-<a href="https://www.linkedin.com/in/aleksandar-ili%C4%87-a9b30b87/">
-  <img align="left" alt="Aleksandar's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> 
-<br />
-<br />
+Software developer from Novi Sad, Serbia. Building serious backend systems by day, experimenting with AI agents by night.
 
-Hi, I'm Aleksandar Ilić, a Software Developer 🚀 from Serbia, currently. I'm a software development craftsman.
- 
-**Talking about Personal Stuffs:**
+---
 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me:https://www.linkedin.com/in/aleksandar-ili%C4%87-a9b30b87/;
-- 📝[Resume](https://drive.google.com/file/d/1gSnqmjiujRkh8rLH2U7loAK2VbOcXiLS/view?usp=sharing)
+### Currently
 
-**Languages and Tools:**  
+- Deep in AI multi-agent systems — LangGraph, CLI+LLM, agentic workflows
+- Building tools that solve real problems, then sharing them publicly
+- Expanding from Java/Spring Boot roots into Python, Rust, and TypeScript
+- Learning in public at [ilicaleksandar.github.io](https://ilicaleksandar.github.io)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+---
 
+### Tech
 
+Java · Spring Boot · TypeScript · Python · Rust · Scala · Docker · Terraform · LangGraph · PostgreSQL · Elasticsearch
+
+---
+
+### Notable Projects
+
+- **[vizuelni-admin](https://github.com/acailic/vizuelni-admin)** — tool for visualizing Serbian Open Government Data 🇷🇸
+- **[BabyCommandAGI](https://github.com/acailic/BabyCommandAGI)** — what happens when you put an LLM and a CLI in a room and let them talk to each other
+- **[archi-comm](https://github.com/acailic/archi-comm)** — desktop app for practicing system design interviews
+- **[interview-prep-coach](https://github.com/acailic/interview-prep-coach)** — AI-powered interview coach with interactive practice sessions
+- **[founders-dilemma](https://github.com/acailic/founders-dilemma)** — educational startup simulation game that teaches real founder principles through gameplay
+- **[SpringTestify](https://github.com/acailic/SpringTestify)** — testing library that simplifies Spring Boot testing (WIP)
+- **[swe-agent](https://github.com/acailic/swe-agent)** — AI-powered multi-agent system with researcher and developer agents that automate code implementation via LangGraph workflows
+
+---
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/aleksandar-ili%C4%87-a9b30b87/) · [Blog](https://ilicaleksandar.github.io) · [Resume](https://drive.google.com/file/d/1gSnqmjiujRkh8rLH2U7loAK2VbOcXiLS/view?usp=sharing)
+
+---
 
 ![Aleksandar's github stats](https://github-readme-stats.vercel.app/api?username=acailic&show_icons=true&hide_border=true)
-
-⭐️ From [abhisheknaidu](https://github.com/abhisheknaidu) 
