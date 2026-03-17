@@ -33,13 +33,10 @@
 ### 🚀 Notable Projects
 
 - 🗺️ **[vizuelni-admin](https://github.com/acailic/vizuelni-admin)** — tool for visualizing Serbian Open Government Data 🇷🇸
-- 🧠 **[amplifier-adding-codex](https://github.com/acailic/amplifier-adding-codex)** — metacognitive AI development system that turns expertise into reusable automation tools without writing code
-- 🤖 **[BabyCommandAGI](https://github.com/acailic/BabyCommandAGI)** — what happens when you put an LLM and a CLI in a room and let them talk to each other
 - 🏗️ **[archi-comm](https://github.com/acailic/archi-comm)** — desktop app for practicing system design interviews
 - 🎯 **[interview-prep-coach](https://github.com/acailic/interview-prep-coach)** — AI-powered interview coach with interactive practice sessions
 - 🎮 **[founders-dilemma](https://github.com/acailic/founders-dilemma)** — educational startup simulation game that teaches real founder principles through gameplay
 - 🧪 **[SpringTestify](https://github.com/acailic/SpringTestify)** — testing library that simplifies Spring Boot testing (WIP)
-- ⚡ **[swe-agent](https://github.com/acailic/swe-agent)** — AI-powered multi-agent system with researcher and developer agents that automate code implementation via LangGraph workflows
 
 ---
 
