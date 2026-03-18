@@ -43,8 +43,8 @@
 ### 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Aleksandar_Ilić-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandar-ili%C4%87-a9b30b87/)
-[![Blog](https://img.shields.io/badge/-ilicaleksandar.github.io-FF5722?style=flat-square&logo=github&logoColor=white)](https://ilicaleksandar.github.io)
-[![Medium](https://medium.com/@alexilic92)]
+[![Blog](https://img.shields.io/badge/-ilicaleksandar.github.io-FF5722?style=flat-square&logo=github&logoColor=white)](https://ilicaleksandar.github.io) 
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@alexilic92)
 [![Resume](https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1gSnqmjiujRkh8rLH2U7loAK2VbOcXiLS/view?usp=sharing)
 
 ---
