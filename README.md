@@ -1,8 +1,6 @@
 # Aleksandar Ilić 👨‍💻
 
-🇷🇸 Software developer from Novi Sad, Serbia. Building serious backend systems by day, experimenting with AI agents by night.
-
----
+🇷🇸 Software developer from Novi Sad, Serbia.  
 
 ### 🔥 Currently
 
