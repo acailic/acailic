@@ -35,6 +35,7 @@
 - 🎯 **[interview-prep-coach](https://github.com/acailic/interview-prep-coach)** — AI-powered interview coach with interactive practice sessions
 - 🎮 **[founders-dilemma](https://github.com/acailic/founders-dilemma)** — educational startup simulation game that teaches real founder principles through gameplay
 - 🧪 **[SpringTestify](https://github.com/acailic/SpringTestify)** — testing library that simplifies Spring Boot testing (WIP)
+- 🔍 **[agent_debugger](https://github.com/acailic/agent_debugger)** — AI agent debugger that captures every decision, tool call, and LLM interaction as a queryable timeline
 
 ---
 
