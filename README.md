@@ -4,9 +4,8 @@
 
 ### 🔥 Currently
 
-- 📈 Expanding from Java/Spring Boot roots into Python, Rust, and TypeScript
-- 🛠️ Building tools that solve real problems, then sharing them publicly
-- 🤖 Deep in AI multi-agent systems — LangGraph, CLI+LLM, agentic workflows
+- 📈 Expanding from Java/Spring Boot roots into Python, Rust, and TypeScript 
+- 🤖 Deep in AI multi-agent systems — CLI+LLM, agentic workflows
 - 📝 Learning in public at [ilicaleksandar.github.io](https://ilicaleksandar.github.io)
 
 ---
@@ -32,11 +31,8 @@
 
 - 🐛 **[agent_debugger](https://github.com/acailic/agent_debugger)** — local-first agent debugger with replay, failure memory, smart highlights, and drift detection
 - 🗺️ **[vizuelni-admin](https://github.com/acailic/vizuelni-admin)** — tool for visualizing Serbian Open Government Data 🇷🇸
-- 🏗️ **[archi-comm](https://github.com/acailic/archi-comm)** — desktop app for practicing system design interviews
-- 🎯 **[interview-prep-coach](https://github.com/acailic/interview-prep-coach)** — AI-powered interview coach with interactive practice sessions
-- 🎮 **[founders-dilemma](https://github.com/acailic/founders-dilemma)** — educational startup simulation game that teaches real founder principles through gameplay
-- 🧪 **[SpringTestify](https://github.com/acailic/SpringTestify)** — testing library that simplifies Spring Boot testing (WIP)
-- 💎 **[tweetnugget](https://github.com/acailic/tweetnugget)** — curated inspirational tweets and quotes delivered as an OpenClaw skill
+- 🇷🇸 **[serbian-data-mcp](https://github.com/acailic/serbian-data-mcp)** — MCP server for accessing the Serbian open data portal (data.gov.rs) with built-in visualization, storytelling, and analytics
+- 📄 **[paper-implementer](https://github.com/acailic/paper-implementer)** — autonomous agent that reads, breaks down & re-implements the most-cited ML papers (paperswithcode / Hugging Face Daily Papers)
 
 ---
 
