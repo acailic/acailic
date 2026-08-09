@@ -4,9 +4,7 @@
 
 ### 🔥 Currently
 
-- 📈 Expanding from Java/Spring Boot roots into Python, Rust, and TypeScript 
-- 🤖 Deep in AI multi-agent systems — CLI+LLM, agentic workflows
-- 📝 Learning in public at [ilicaleksandar.github.io](https://ilicaleksandar.github.io)
+- 📈 Expanding from Java/Spring Boot roots into Python, Rust, and TypeScript   
 
 ---
 
