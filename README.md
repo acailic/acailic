@@ -30,6 +30,7 @@
 - 🐛 **[agent_debugger](https://github.com/acailic/agent_debugger)** — local-first agent debugger with replay, failure memory, smart highlights, and drift detection
 - 🗺️ **[vizuelni-admin](https://github.com/acailic/vizuelni-admin)** — tool for visualizing Serbian Open Government Data 🇷🇸
 - 🇷🇸 **[serbian-data-mcp](https://github.com/acailic/serbian-data-mcp)** — MCP server for accessing the Serbian open data portal (data.gov.rs) with built-in visualization, storytelling, and analytics
+- 🎙️ **[SayItErmano](https://github.com/acailic/SayItErmano)** — Linux dictation app (unofficial FluidVoice port) using on-device Whisper transcription with optional AI-powered text refinement
 - 📄 **[paper-implementer](https://github.com/acailic/paper-implementer)** — autonomous agent that reads, breaks down & re-implements the most-cited ML papers (paperswithcode / Hugging Face Daily Papers)
 
 ---
